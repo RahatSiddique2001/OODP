@@ -1,0 +1,6 @@
+Notification service == Factory + Singleton
+Money withdrawal == Chain of responsibility
+Car customization system == Builder Pattern
+
+Shape creation == Abstruct Factory or Factory
+Coffee Decorator == Decorator Pattern
